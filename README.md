@@ -8,7 +8,7 @@ Introduction
 
 > - Developed a web service using (Java servlet, REST API) to fetch restaurant data from **Yelp API**.
 
-> - Database: MySQL/MongoDB to store user preference and restaurant information.
+> - Database: MySQL to store user preference and restaurant information.
 
 > -	Designed and developed a **filter and sorting algorithm** and matched similar restaurants. 
 
