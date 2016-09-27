@@ -12,6 +12,9 @@ Introduction
 
 > -	Designed and developed a **filter and sorting algorithm** and matched similar restaurants. 
 
+>- Uesed Ajax to communicate between server and client for more efficient content loading. 
+
 > - Tested the web service with unit tests(JUnit).
+
 
 
