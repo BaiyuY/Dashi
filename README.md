@@ -1,6 +1,6 @@
 # Dashi
 ===================
-Dashi aims to use personalization to **personalization** to improve restaurant search and recommendation based on search history and favorite record
+Dashi aims to use  **personalization** to improve restaurant search and recommendation based on search history and favorite record
 
 Introduction
 -------------
